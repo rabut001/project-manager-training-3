@@ -1,6 +1,6 @@
 # Codexの会話をMarkdownへ出力
 
-状態: 実装・ローカル確認済み、CI確認中
+状態: 完了
 
 ## 目的・範囲
 
@@ -25,3 +25,5 @@
 - この会話のJSONLをホストから標準入力で渡し、`chat-exports/2026-10-19-2046/chat.md` を出力。初回依頼・比較条件・今回の依頼の保持と、自動付加情報の除外を確認した。
 - `npm run export:chat -- --transcript <ファイル> --repo-root <一時保存先>` も成功し、ファイル入力・npm経由の実行を確認。
 - CI内にもPythonの7件を追加。既存のアプリ検証・教材検証・公開処理も維持する。
+- [GitHub Actions](https://github.com/rabut001/project-manager-training-3/actions/runs/39417956709) で新規コンテナ構築・Pythonテスト・既存の全検証・公開が成功。検証済み実装のコミットは `10a2298e0b3c30e85a291cfd5638355fabc5138c`。
+- 完了結果だけの記録追記は `[skip ci]` で保存し、同じ検証を重複実行しない。
