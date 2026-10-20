@@ -1,0 +1,402 @@
+[
+  {
+    "no": 1,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      58.666666666666664,
+      500.52001953125,
+      278.0
+    ],
+    "pixelSize": [
+      1165,
+      510
+    ],
+    "headerOcr": "問1プロジェクトの",
+    "image": "public/data/2017-h29-haru/q01.png"
+  },
+  {
+    "no": 2,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      280.0,
+      500.52001953125,
+      439.6666666666667
+    ],
+    "pixelSize": [
+      1165,
+      342
+    ],
+    "headerOcr": "問2PMBOKガイド",
+    "image": "public/data/2017-h29-haru/q02.png"
+  },
+  {
+    "no": 3,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      441.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1156,
+      618
+    ],
+    "headerOcr": "問3PMBOKガイド",
+    "image": "public/data/2017-h29-haru/q03.png"
+  },
+  {
+    "no": 4,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      59.66666666666666,
+      500.52001953125,
+      299.0
+    ],
+    "pixelSize": [
+      1157,
+      567
+    ],
+    "headerOcr": "問4PMBOKガイ|",
+    "image": "public/data/2017-h29-haru/q04.png"
+  },
+  {
+    "no": 5,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      301.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1156,
+      454
+    ],
+    "headerOcr": "問5WBSの構成衣",
+    "image": "public/data/2017-h29-haru/q05.png"
+  },
+  {
+    "no": 6,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      59.66666666666666,
+      500.52001953125,
+      344.6666666666667
+    ],
+    "pixelSize": [
+      1166,
+      692
+    ],
+    "headerOcr": "問6表はRACIチ:",
+    "image": "public/data/2017-h29-haru/q06.png"
+  },
+  {
+    "no": 7,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      346.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1166,
+      729
+    ],
+    "headerOcr": "間7チームの発展色",
+    "image": "public/data/2017-h29-haru/q07.png"
+  },
+  {
+    "no": 8,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      60.33333333333334,
+      500.52001953125,
+      298.6666666666667
+    ],
+    "pixelSize": [
+      1155,
+      566
+    ],
+    "headerOcr": "問8工程管理図表0",
+    "image": "public/data/2017-h29-haru/q08.png"
+  },
+  {
+    "no": 9,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      300.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1163,
+      456
+    ],
+    "headerOcr": "問9プロジェクト]",
+    "image": "public/data/2017-h29-haru/q09.png"
+  },
+  {
+    "no": 10,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      59.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1156,
+      1517
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2017-h29-haru/q10.png"
+  },
+  {
+    "no": 11,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      60.33333333333334,
+      500.52001953125,
+      299.0
+    ],
+    "pixelSize": [
+      1158,
+      568
+    ],
+    "headerOcr": "間11アジャイル型詳",
+    "image": "public/data/2017-h29-haru/q11.png"
+  },
+  {
+    "no": 12,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      301.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1156,
+      621
+    ],
+    "headerOcr": "問12EVMを採用し",
+    "image": "public/data/2017-h29-haru/q12.png"
+  },
+  {
+    "no": 13,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      58.666666666666664,
+      500.52001953125,
+      381.3333333333333
+    ],
+    "pixelSize": [
+      1155,
+      815
+    ],
+    "headerOcr": "問13ファンクショ>",
+    "image": "public/data/2017-h29-haru/q13.png"
+  },
+  {
+    "no": 14,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      383.3333333333333,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1008,
+      611
+    ],
+    "headerOcr": "問14工程別の生産",
+    "image": "public/data/2017-h29-haru/q14.png"
+  },
+  {
+    "no": 15,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      59.66666666666666,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1158,
+      1650
+    ],
+    "headerOcr": "間15新しく編成する",
+    "image": "public/data/2017-h29-haru/q15.png"
+  },
+  {
+    "no": 16,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      61.0,
+      500.52001953125,
+      381.6666666666667
+    ],
+    "pixelSize": [
+      1165,
+      791
+    ],
+    "headerOcr": "問16製品を出荷前(",
+    "image": "public/data/2017-h29-haru/q16.png"
+  },
+  {
+    "no": 17,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      383.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1165,
+      452
+    ],
+    "headerOcr": "問17マッシュアップ",
+    "image": "public/data/2017-h29-haru/q17.png"
+  },
+  {
+    "no": 18,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      62.33333333333334,
+      500.52001953125,
+      221.66666666666666
+    ],
+    "pixelSize": [
+      1062,
+      343
+    ],
+    "headerOcr": "問18ソフトウェアの",
+    "image": "public/data/2017-h29-haru/q18.png"
+  },
+  {
+    "no": 19,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      223.66666666666666,
+      500.52001953125,
+      442.6666666666667
+    ],
+    "pixelSize": [
+      1155,
+      609
+    ],
+    "headerOcr": "問19データの追加",
+    "image": "public/data/2017-h29-haru/q19.png"
+  },
+  {
+    "no": 20,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      444.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1167,
+      565
+    ],
+    "headerOcr": "問20データ管理者",
+    "image": "public/data/2017-h29-haru/q20.png"
+  },
+  {
+    "no": 21,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      58.6667,
+      500.52001953125,
+      348.0
+    ],
+    "pixelSize": [
+      1170,
+      700
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2017-h29-haru/q21.png"
+  },
+  {
+    "no": 22,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      350.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1164,
+      736
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2017-h29-haru/q22.png"
+  },
+  {
+    "no": 23,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      61.0,
+      500.52001953125,
+      338.6666666666667
+    ],
+    "pixelSize": [
+      1253,
+      677
+    ],
+    "headerOcr": "問23派遣労働者の",
+    "image": "public/data/2017-h29-haru/q23.png"
+  },
+  {
+    "no": 24,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      340.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1157,
+      621
+    ],
+    "headerOcr": "問24CSIRTの説明",
+    "image": "public/data/2017-h29-haru/q24.png"
+  },
+  {
+    "no": 25,
+    "page": 15,
+    "clipPoints": [
+      15.0,
+      59.66666666666666,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1166,
+      398
+    ],
+    "headerOcr": "間25ペネトレーショ",
+    "image": "public/data/2017-h29-haru/q25.png"
+  }
+]

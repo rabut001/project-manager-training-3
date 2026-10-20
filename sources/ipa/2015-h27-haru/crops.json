@@ -1,0 +1,402 @@
+[
+  {
+    "no": 1,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      71.33333333333334,
+      500.52001953125,
+      290.3333333333333
+    ],
+    "pixelSize": [
+      1155,
+      509
+    ],
+    "headerOcr": "問1ISO21500によ",
+    "image": "public/data/2015-h27-haru/q01.png"
+  },
+  {
+    "no": 2,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      292.3333333333333,
+      500.52001953125,
+      548.0
+    ],
+    "pixelSize": [
+      984,
+      612
+    ],
+    "headerOcr": "問2工程別の生産",
+    "image": "public/data/2015-h27-haru/q02.png"
+  },
+  {
+    "no": 3,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      550.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      954,
+      340
+    ],
+    "headerOcr": "問3PMBOKによれ",
+    "image": "public/data/2015-h27-haru/q03.png"
+  },
+  {
+    "no": 4,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      69.33333333333334,
+      500.52001953125,
+      334.0
+    ],
+    "pixelSize": [
+      1164,
+      637
+    ],
+    "headerOcr": "問4過去のプロジ、",
+    "image": "public/data/2015-h27-haru/q04.png"
+  },
+  {
+    "no": 5,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      336.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1139,
+      789
+    ],
+    "headerOcr": "問5表はRACIチ",
+    "image": "public/data/2015-h27-haru/q05.png"
+  },
+  {
+    "no": 6,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      73.33333333333334,
+      500.52001953125,
+      333.0
+    ],
+    "pixelSize": [
+      1156,
+      621
+    ],
+    "headerOcr": "問6プロジェクト(",
+    "image": "public/data/2015-h27-haru/q06.png"
+  },
+  {
+    "no": 7,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      335.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1157,
+      908
+    ],
+    "headerOcr": "問7クリティカル:",
+    "image": "public/data/2015-h27-haru/q07.png"
+  },
+  {
+    "no": 8,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      73.66666666666666,
+      500.52001953125,
+      309.6666666666667
+    ],
+    "pixelSize": [
+      1156,
+      654
+    ],
+    "headerOcr": "問8工程管理図表の",
+    "image": "public/data/2015-h27-haru/q08.png"
+  },
+  {
+    "no": 9,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      311.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1166,
+      512
+    ],
+    "headerOcr": "問9プロジェクト<",
+    "image": "public/data/2015-h27-haru/q09.png"
+  },
+  {
+    "no": 10,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      74.0,
+      500.52001953125,
+      308.0
+    ],
+    "pixelSize": [
+      1167,
+      565
+    ],
+    "headerOcr": "問10EVMを採用し",
+    "image": "public/data/2015-h27-haru/q10.png"
+  },
+  {
+    "no": 11,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      310.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1157,
+      836
+    ],
+    "headerOcr": "問11ファンクショ>",
+    "image": "public/data/2015-h27-haru/q11.png"
+  },
+  {
+    "no": 12,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      70.33333333333334,
+      500.52001953125,
+      228.33333333333334
+    ],
+    "pixelSize": [
+      1157,
+      339
+    ],
+    "headerOcr": "問12PMBOKのリン>",
+    "image": "public/data/2015-h27-haru/q12.png"
+  },
+  {
+    "no": 13,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      230.33333333333334,
+      500.52001953125,
+      369.0
+    ],
+    "pixelSize": [
+      1155,
+      287
+    ],
+    "headerOcr": "間13プロジェクトの",
+    "image": "public/data/2015-h27-haru/q13.png"
+  },
+  {
+    "no": 14,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      371.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1156,
+      392
+    ],
+    "headerOcr": "間14品質の定量的調",
+    "image": "public/data/2015-h27-haru/q14.png"
+  },
+  {
+    "no": 15,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      72.66666666666666,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1166,
+      1178
+    ],
+    "headerOcr": "問15次の調達の要6",
+    "image": "public/data/2015-h27-haru/q15.png"
+  },
+  {
+    "no": 16,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      72.66666666666666,
+      500.52001953125,
+      349.3333333333333
+    ],
+    "pixelSize": [
+      1158,
+      672
+    ],
+    "headerOcr": "問16安全性と信頼",
+    "image": "public/data/2015-h27-haru/q16.png"
+  },
+  {
+    "no": 17,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      351.3333333333333,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1223,
+      824
+    ],
+    "headerOcr": "間17リーンソフト",
+    "image": "public/data/2015-h27-haru/q17.png"
+  },
+  {
+    "no": 18,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      74.33333333333334,
+      500.52001953125,
+      273.0
+    ],
+    "pixelSize": [
+      1155,
+      453
+    ],
+    "headerOcr": "問18マッシュアッンフ",
+    "image": "public/data/2015-h27-haru/q18.png"
+  },
+  {
+    "no": 19,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      275.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1157,
+      398
+    ],
+    "headerOcr": "問19ITサービスマ",
+    "image": "public/data/2015-h27-haru/q19.png"
+  },
+  {
+    "no": 20,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      71.0,
+      500.52001953125,
+      337.6666666666667
+    ],
+    "pixelSize": [
+      1166,
+      641
+    ],
+    "headerOcr": "問20新システムのB",
+    "image": "public/data/2015-h27-haru/q20.png"
+  },
+  {
+    "no": 21,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      339.6666666666667,
+      500.52001953125,
+      519.0
+    ],
+    "pixelSize": [
+      1154,
+      398
+    ],
+    "headerOcr": "問21非機能要件の人",
+    "image": "public/data/2015-h27-haru/q21.png"
+  },
+  {
+    "no": 22,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      521.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1056,
+      341
+    ],
+    "headerOcr": "問22不正競争防止法",
+    "image": "public/data/2015-h27-haru/q22.png"
+  },
+  {
+    "no": 23,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      71.33333333333334,
+      500.52001953125,
+      330.6666666666667
+    ],
+    "pixelSize": [
+      1208,
+      720
+    ],
+    "headerOcr": "問23広告宣伝のメ-",
+    "image": "public/data/2015-h27-haru/q23.png"
+  },
+  {
+    "no": 24,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      332.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      846,
+      342
+    ],
+    "headerOcr": "問24米国NISTが授",
+    "image": "public/data/2015-h27-haru/q24.png"
+  },
+  {
+    "no": 25,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      69.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1165,
+      728
+    ],
+    "headerOcr": "問25テンペスト投入",
+    "image": "public/data/2015-h27-haru/q25.png"
+  }
+]

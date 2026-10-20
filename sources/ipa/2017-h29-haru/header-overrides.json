@@ -1,0 +1,21 @@
+{
+  "7": [
+    {
+      "no": 10,
+      "y": 64,
+      "ocr": "manual: original header image visually reviewed"
+    }
+  ],
+  "13": [
+    {
+      "no": 21,
+      "y": 63.6667,
+      "ocr": "manual: original header image visually reviewed"
+    },
+    {
+      "no": 22,
+      "y": 355,
+      "ocr": "manual: original header image visually reviewed"
+    }
+  ]
+}

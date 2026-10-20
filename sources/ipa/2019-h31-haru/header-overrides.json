@@ -1,0 +1,38 @@
+{
+  "6": [
+    {
+      "no": 7,
+      "y": 71.6667,
+      "ocr": "manual: original header image visually reviewed"
+    },
+    {
+      "no": 8,
+      "y": 313.3333,
+      "ocr": "manual: original header image visually reviewed"
+    }
+  ],
+  "7": [
+    {
+      "no": 9,
+      "y": 69.3333,
+      "ocr": "manual: original header image visually reviewed"
+    },
+    {
+      "no": 10,
+      "y": 328.3333,
+      "ocr": "manual: original header image visually reviewed"
+    }
+  ],
+  "12": [
+    {
+      "no": 20,
+      "y": 70.3333,
+      "ocr": "manual: original header image visually reviewed"
+    },
+    {
+      "no": 21,
+      "y": 291.3333,
+      "ocr": "manual: original header image visually reviewed"
+    }
+  ]
+}

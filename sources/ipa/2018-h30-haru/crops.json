@@ -1,0 +1,402 @@
+[
+  {
+    "no": 1,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      66.66666666666666,
+      500.52001953125,
+      245.33333333333334
+    ],
+    "pixelSize": [
+      1206,
+      400
+    ],
+    "headerOcr": "問1ISO21500:201",
+    "image": "public/data/2018-h30-haru/q01.png"
+  },
+  {
+    "no": 2,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      247.33333333333334,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1177,
+      733
+    ],
+    "headerOcr": "問2プロジェクト~",
+    "image": "public/data/2018-h30-haru/q02.png"
+  },
+  {
+    "no": 3,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      65.0,
+      500.52001953125,
+      283.0
+    ],
+    "pixelSize": [
+      1161,
+      507
+    ],
+    "headerOcr": "問3PMBOKガイド",
+    "image": "public/data/2018-h30-haru/q03.png"
+  },
+  {
+    "no": 4,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      285.0,
+      500.52001953125,
+      464.3333333333333
+    ],
+    "pixelSize": [
+      1161,
+      398
+    ],
+    "headerOcr": "問4プロジェクト-",
+    "image": "public/data/2018-h30-haru/q04.png"
+  },
+  {
+    "no": 5,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      466.3333333333333,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1170,
+      507
+    ],
+    "headerOcr": "問5ISO21500:2012",
+    "image": "public/data/2018-h30-haru/q05.png"
+  },
+  {
+    "no": 6,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      66.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1158,
+      1350
+    ],
+    "headerOcr": "問6図1に示すプ[",
+    "image": "public/data/2018-h30-haru/q06.png"
+  },
+  {
+    "no": 7,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      66.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1168,
+      805
+    ],
+    "headerOcr": "問7過去のプロジ.",
+    "image": "public/data/2018-h30-haru/q07.png"
+  },
+  {
+    "no": 8,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      65.66666666666666,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1159,
+      1571
+    ],
+    "headerOcr": "間8COCOMOには",
+    "image": "public/data/2018-h30-haru/q08.png"
+  },
+  {
+    "no": 9,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      64.3333,
+      500.52001953125,
+      396.0
+    ],
+    "pixelSize": [
+      1160,
+      857
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2018-h30-haru/q09.png"
+  },
+  {
+    "no": 10,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      398.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1161,
+      510
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2018-h30-haru/q10.png"
+  },
+  {
+    "no": 11,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      65.0,
+      500.52001953125,
+      245.66666666666666
+    ],
+    "pixelSize": [
+      1160,
+      399
+    ],
+    "headerOcr": "問11PMBOKガイド",
+    "image": "public/data/2018-h30-haru/q11.png"
+  },
+  {
+    "no": 12,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      247.66666666666666,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1160,
+      788
+    ],
+    "headerOcr": "問12システム開発の",
+    "image": "public/data/2018-h30-haru/q12.png"
+  },
+  {
+    "no": 13,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      65.0,
+      500.52001953125,
+      203.66666666666666
+    ],
+    "pixelSize": [
+      1158,
+      285
+    ],
+    "headerOcr": "間13プロジェクト-~",
+    "image": "public/data/2018-h30-haru/q13.png"
+  },
+  {
+    "no": 14,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      205.66666666666666,
+      500.52001953125,
+      384.3333333333333
+    ],
+    "pixelSize": [
+      1159,
+      397
+    ],
+    "headerOcr": "間14PMBOKガイト",
+    "image": "public/data/2018-h30-haru/q14.png"
+  },
+  {
+    "no": 15,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      386.3333333333333,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1160,
+      396
+    ],
+    "headerOcr": "問15PMBOKガイト",
+    "image": "public/data/2018-h30-haru/q15.png"
+  },
+  {
+    "no": 16,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      66.33333333333334,
+      500.52001953125,
+      286.3333333333333
+    ],
+    "pixelSize": [
+      1160,
+      512
+    ],
+    "headerOcr": "間16共通フレーム2",
+    "image": "public/data/2018-h30-haru/q16.png"
+  },
+  {
+    "no": 17,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      288.3333333333333,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1279,
+      693
+    ],
+    "headerOcr": "問17エクストリーム",
+    "image": "public/data/2018-h30-haru/q17.png"
+  },
+  {
+    "no": 18,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      64.0,
+      500.52001953125,
+      344.6667
+    ],
+    "pixelSize": [
+      1160,
+      774
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2018-h30-haru/q18.png"
+  },
+  {
+    "no": 19,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      346.6667,
+      500.52001953125,
+      523.6667
+    ],
+    "pixelSize": [
+      1159,
+      400
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2018-h30-haru/q19.png"
+  },
+  {
+    "no": 20,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      525.6667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1157,
+      397
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2018-h30-haru/q20.png"
+  },
+  {
+    "no": 21,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      65.0,
+      500.52001953125,
+      346.6666666666667
+    ],
+    "pixelSize": [
+      1251,
+      679
+    ],
+    "headerOcr": "間21システム開発<",
+    "image": "public/data/2018-h30-haru/q21.png"
+  },
+  {
+    "no": 22,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      348.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1256,
+      766
+    ],
+    "headerOcr": "問22労働基準法及て",
+    "image": "public/data/2018-h30-haru/q22.png"
+  },
+  {
+    "no": 23,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      65.33333333333334,
+      500.52001953125,
+      203.66666666666666
+    ],
+    "pixelSize": [
+      1159,
+      284
+    ],
+    "headerOcr": "問23基準値を超え",
+    "image": "public/data/2018-h30-haru/q23.png"
+  },
+  {
+    "no": 24,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      205.66666666666666,
+      500.52001953125,
+      330.6666666666667
+    ],
+    "pixelSize": [
+      1155,
+      247
+    ],
+    "headerOcr": "問24公開鍵暗号方:",
+    "image": "public/data/2018-h30-haru/q24.png"
+  },
+  {
+    "no": 25,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      332.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1168,
+      563
+    ],
+    "headerOcr": "間25テンペスト攻#",
+    "image": "public/data/2018-h30-haru/q25.png"
+  }
+]

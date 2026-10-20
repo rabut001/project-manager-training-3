@@ -1,0 +1,402 @@
+[
+  {
+    "no": 1,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      64.66666666666666,
+      501.0,
+      283.6666666666667
+    ],
+    "pixelSize": [
+      1161,
+      512
+    ],
+    "headerOcr": "間1JISQ21509:2",
+    "image": "public/data/2025-r07-aki/q01.png"
+  },
+  {
+    "no": 2,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      285.6666666666667,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1160,
+      820
+    ],
+    "headerOcr": "問2JIS021509:2",
+    "image": "public/data/2025-r07-aki/q02.png"
+  },
+  {
+    "no": 3,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      63.0,
+      501.0,
+      301.0
+    ],
+    "pixelSize": [
+      1159,
+      563
+    ],
+    "headerOcr": "問3プロジェクトの",
+    "image": "public/data/2025-r07-aki/q03.png"
+  },
+  {
+    "no": 4,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      303.0,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1167,
+      511
+    ],
+    "headerOcr": "問4プロジェクトマ",
+    "image": "public/data/2025-r07-aki/q04.png"
+  },
+  {
+    "no": 5,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      68.0,
+      501.0,
+      366.6666666666667
+    ],
+    "pixelSize": [
+      1171,
+      733
+    ],
+    "headerOcr": "間5ホーソン効果0",
+    "image": "public/data/2025-r07-aki/q05.png"
+  },
+  {
+    "no": 6,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      368.6666666666667,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1159,
+      827
+    ],
+    "headerOcr": "問6図は,実施す:",
+    "image": "public/data/2025-r07-aki/q06.png"
+  },
+  {
+    "no": 7,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      65.66666666666666,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1156,
+      1237
+    ],
+    "headerOcr": "問7図1に示すプロ",
+    "image": "public/data/2025-r07-aki/q07.png"
+  },
+  {
+    "no": 8,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      69.0,
+      501.0,
+      288.0
+    ],
+    "pixelSize": [
+      1172,
+      508
+    ],
+    "headerOcr": "manual: original header image visually read 問8",
+    "image": "public/data/2025-r07-aki/q08.png"
+  },
+  {
+    "no": 9,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      290.0,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1158,
+      910
+    ],
+    "headerOcr": "manual override",
+    "image": "public/data/2025-r07-aki/q09.png"
+  },
+  {
+    "no": 10,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      64.6666666667,
+      501.0,
+      183.0
+    ],
+    "pixelSize": [
+      1158,
+      235
+    ],
+    "headerOcr": "manual: original header image visually read 問10",
+    "image": "public/data/2025-r07-aki/q10.png"
+  },
+  {
+    "no": 11,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      185.0,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1183,
+      764
+    ],
+    "headerOcr": "manual override",
+    "image": "public/data/2025-r07-aki/q11.png"
+  },
+  {
+    "no": 12,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      66.66666666666666,
+      501.0,
+      325.3333333333333
+    ],
+    "pixelSize": [
+      1163,
+      620
+    ],
+    "headerOcr": "問12JISQ21500:2",
+    "image": "public/data/2025-r07-aki/q12.png"
+  },
+  {
+    "no": 13,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      327.3333333333333,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1159,
+      397
+    ],
+    "headerOcr": "間13アジャイル開:",
+    "image": "public/data/2025-r07-aki/q13.png"
+  },
+  {
+    "no": 14,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      62.33333333333334,
+      501.0,
+      361.3333333333333
+    ],
+    "pixelSize": [
+      1163,
+      728
+    ],
+    "headerOcr": "間14JISX9166:26",
+    "image": "public/data/2025-r07-aki/q14.png"
+  },
+  {
+    "no": 15,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      363.3333333333333,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1159,
+      287
+    ],
+    "headerOcr": "間15スクラムを適用",
+    "image": "public/data/2025-r07-aki/q15.png"
+  },
+  {
+    "no": 16,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      68.33333333333334,
+      501.0,
+      286.6666666666667
+    ],
+    "pixelSize": [
+      1173,
+      510
+    ],
+    "headerOcr": "問16JISX33002:2",
+    "image": "public/data/2025-r07-aki/q16.png"
+  },
+  {
+    "no": 17,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      288.6666666666667,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1172,
+      508
+    ],
+    "headerOcr": "問17バグトラッキ-",
+    "image": "public/data/2025-r07-aki/q17.png"
+  },
+  {
+    "no": 18,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      64.66666666666666,
+      501.0,
+      429.0
+    ],
+    "pixelSize": [
+      1158,
+      982
+    ],
+    "headerOcr": "問18ITサービスに:",
+    "image": "public/data/2025-r07-aki/q18.png"
+  },
+  {
+    "no": 19,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      431.0,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1158,
+      563
+    ],
+    "headerOcr": "問19プロジェクトマ.",
+    "image": "public/data/2025-r07-aki/q19.png"
+  },
+  {
+    "no": 20,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      68.0,
+      501.0,
+      305.0
+    ],
+    "pixelSize": [
+      1165,
+      562
+    ],
+    "headerOcr": "manual: original header image visually read 問20",
+    "image": "public/data/2025-r07-aki/q20.png"
+  },
+  {
+    "no": 21,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      307.0,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1161,
+      550
+    ],
+    "headerOcr": "manual override",
+    "image": "public/data/2025-r07-aki/q21.png"
+  },
+  {
+    "no": 22,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      62.66666666666666,
+      501.0,
+      260.66666666666663
+    ],
+    "pixelSize": [
+      1158,
+      456
+    ],
+    "headerOcr": "問22組織において,",
+    "image": "public/data/2025-r07-aki/q22.png"
+  },
+  {
+    "no": 23,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      262.66666666666663,
+      501.0,
+      540.6666666666666
+    ],
+    "pixelSize": [
+      1172,
+      769
+    ],
+    "headerOcr": "間23多要素認証疲労",
+    "image": "public/data/2025-r07-aki/q23.png"
+  },
+  {
+    "no": 24,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      542.6666666666666,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1158,
+      288
+    ],
+    "headerOcr": "問24組織の日常的な:",
+    "image": "public/data/2025-r07-aki/q24.png"
+  },
+  {
+    "no": 25,
+    "page": 15,
+    "clipPoints": [
+      15.0,
+      61.66666666666666,
+      501.0,
+      674.0
+    ],
+    "pixelSize": [
+      1160,
+      865
+    ],
+    "headerOcr": "問25外部から侵入",
+    "image": "public/data/2025-r07-aki/q25.png"
+  }
+]

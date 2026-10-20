@@ -1,0 +1,59 @@
+name: Verify and deploy Pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - name: Build development container
+        run: docker build -t pm-training-dev .devcontainer
+      - name: Verify in the development container
+        run: |
+          docker run --rm --init --user root \
+            --mount type=bind,src="$GITHUB_WORKSPACE",dst=/workspace \
+            --workdir /workspace \
+            --env CI=true \
+            --env PAGE_BASE_PATH="/${GITHUB_REPOSITORY#*/}/" \
+            pm-training-dev bash -c '
+              set -euo pipefail
+              npm ci
+              npx playwright install --with-deps chromium
+              npm test
+              npm run test:e2e
+              BASE_PATH="$PAGE_BASE_PATH" npm run build
+              BASE_PATH="$PAGE_BASE_PATH" npm run test:production
+            '
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
+        if: github.event_name != 'pull_request' && vars.PAGES_ENABLED == 'true'
+        with:
+          path: dist
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && vars.PAGES_ENABLED == 'true'
+    needs: verify
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4

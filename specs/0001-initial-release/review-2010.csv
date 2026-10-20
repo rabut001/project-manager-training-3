@@ -1,0 +1,26 @@
+exam_id,question,status,review_basis,source,notes
+2010-h22-haru,1,reviewed,保存後に解説と原画像4肢を別読み。PMIの2004年版定義引用を含む資料で憲章の正式認可・資源利用権限の付与を確認し方針共有/資金交渉/計画告知との違いを照合。,https://www.pmi.org/learning/library/charter-selling-project-7473,2026-10-20 補助テキストは要約。問題全文は原本画像。
+2010-h22-haru,2,reviewed,原画像の工数式指数1.12と4曲線を目視。生産性をx/(3x^1.12)=(1/3)x^-0.12に変形し一階微分負・二階微分正から減少が緩やかになるエと照合。,sources/ipa/2010-h22-haru/questions.pdf#page=3,2026-10-20 作成後の図表と数式レビュー。
+2010-h22-haru,3,reviewed,原画像の成果物/必要作業・除外事項・WBS/ベースラインの順序・前提条件を解説と再照合。スコープ記述書がWBSに先立つ関係と各誤肢の指摘が整合。,sources/ipa/2010-h22-haru/questions.pdf#page=4,2026-10-20 出題当時のPMBOK区分を前提。
+2010-h22-haru,4,reviewed,原画像4肢を再読しガントの時間軸と帯による作業計画/実績表示を確認。トレンド・ネットワーク・マイルストーンの各説明を区別し依存関係付記可能な現代ツールへの限定注記も妥当。,sources/ipa/2010-h22-haru/questions.pdf#page=4,2026-10-20 解説と公式解答ウの整合を確認。
+2010-h22-haru,5,reviewed,原画像エの作業と資源の両依存をPMIのcritical chain資料で確認。余裕計算/障害復旧/単なるパス変化との違いとバッファ説明を再読。,https://www.pmi.org/learning/library/drum-buffer-rope-critical-chain-buffering-8526,2026-10-20 解説と公式解答エの整合を確認。
+2010-h22-haru,6,reviewed,原画像の横軸開発期間・縦軸予算消化率と予定から実績への垂直下向き矢印を目視。時間不変かつ費用低下というアの判定と他肢の方向の違いを確認。,sources/ipa/2010-h22-haru/questions.pdf#page=5,2026-10-20 作成後に図と解説を再照合。
+2010-h22-haru,7,reviewed,原画像の予算1億円・80%経過・70%進捗・AC8500万円を照合しコンテナ内で独立再計算。PV8000・EV7000・CV−1500・SV−1000万円となりイのみ一致。,sources/ipa/2010-h22-haru/questions.pdf#page=6,2026-10-20 有理数で再計算済み。
+2010-h22-haru,8,reviewed,原画像の工数比と期間比の別行を確認。期間比最初3工程0.57・残開発半分0.055+結合0.11+テスト0.21から228/0.57=400日・残150日をコンテナ内で独立再計算。,sources/ipa/2010-h22-haru/questions.pdf#page=6,2026-10-20 有理数で再計算済み。エ172日は開発全体未実施の場合。
+2010-h22-haru,9,reviewed,原画像のSPA評価目的と解説を別読み。プロセスの能力/改善状況の評価とライフサイクル作業定義・品質保証規格・PMBOKの区別が各肢に整合。,sources/ipa/2010-h22-haru/questions.pdf#page=7,2026-10-20 公式解答アと一致。
+2010-h22-haru,10,reviewed,原画像の品質特性の名前と定義を再照合。ア機能性は一致・イは使用性の説明・ウは効率性・エは信頼性。出題当時のJIS X 0129-1を前提とする注記を確認。,sources/ipa/2010-h22-haru/questions.pdf#page=7,2026-10-20 公式解答アと一致。
+2010-h22-haru,11,reviewed,原画像の4式の除算記号を目視。修正時間/修正件数は平均修正時間で保守性・アは欠陥密度・ウは移植変更比率・エは改良要求頻度であることを単位から再確認。,sources/ipa/2010-h22-haru/questions.pdf#page=8,2026-10-20 公式解答イと一致。
+2010-h22-haru,12,reviewed,原画像の条件次第で自ら責任を取るというY理論のイを解説と再照合。承認欲求/安全欲求/X理論寄りの受動的人間観という誤肢の説明が各文に対応。,sources/ipa/2010-h22-haru/questions.pdf#page=8,2026-10-20 公式解答イと一致。
+2010-h22-haru,13,reviewed,原画像の二変量相関に散布図というエと解説を再読。シェア構成比・科目別比較・桁の違う数量の時系列という3誤肢の用途/尺度の問題を確認。,sources/ipa/2010-h22-haru/questions.pdf#page=8,2026-10-20 公式解答エと一致。
+2010-h22-haru,14,reviewed,原画像4手法と解説を再読。発生確率/影響度の区分で優先順位を定める定性分析と感度/期待金額/デシジョンツリーによる定量分析の区別を確認。,sources/ipa/2010-h22-haru/questions.pdf#page=9,2026-10-20 出題時PMBOKの分類を前提。
+2010-h22-haru,15,reviewed,原画像とOMG BPMN説明の業務フローを標準図式で表す目的を照合。実績収集やデータモデル自動生成は記法自体の保証でなくER図とは対象が違うという誤肢説明を再読。,https://www.omg.org/bpmn/Documents/FAQ-WG.htm,2026-10-20 公式解答イと一致。
+2010-h22-haru,16,reviewed,原画像と保存後解説を再読。概念/全体から詳細へ進む方法と画面帳票等から積上げる方法の違いを保持。正規化と属性網羅という最終要件の共通性・用途を現状/新規だけで制限しない説明を確認。,sources/ipa/2010-h22-haru/questions.pdf#page=9,2026-10-20 公式解答イと一致。
+2010-h22-haru,17,reviewed,原図で自動車が上位・バス/トラック/セダン/バンが下位であることを目視。共通部分抽出の汎化と定義引継ぎの継承・具体実体・特化方向の違いを全4肢と再照合。,sources/ipa/2010-h22-haru/questions.pdf#page=10,2026-10-20 公式解答イと一致。補助文は例のバス/トラックへ要約。
+2010-h22-haru,18,reviewed,原画像の業務機能サービスを組み合わせる考え方をSOA説明と再照合。通信仕様・Webサービス検索・SLAの3誤肢との対象の違いが解説に反映されていることを確認。,sources/ipa/2010-h22-haru/questions.pdf#page=10,2026-10-20 公式解答ウと一致。
+2010-h22-haru,19,reviewed,原画像と解説を別読み。実装から仕様復元のア・仕様修正後再開発のイ・クラス再利用のウ・部品組合せのエを区別し逆解析と再開発の範囲が整合。,sources/ipa/2010-h22-haru/questions.pdf#page=11,2026-10-20 公式解答アと一致。
+2010-h22-haru,20,reviewed,原画像の障害時に性能低下しても構成を縮小し継続する条件がフェールソフトに一致。ア/イの安全停止とエの誤操作予防との違いを保存後解説で再確認。,sources/ipa/2010-h22-haru/questions.pdf#page=11,2026-10-20 公式解答ウと一致。
+2010-h22-haru,21,reviewed,原画像のITIL v3指定と緊急判断組織を再読。AXELOS作成2011用語集のECAB・事前承認済みstandard change・password resetを含むservice requestの定義で補強。現行ITIL 4へ置換せずCAB全件審議/到着順/パスワード変更要求の各誤肢を確認。,https://www.bu.edu/tech/files/2018/10/ITIL%C2%AE-glossary-and-abbreviations.pdf,2026-10-20 AXELOS一次資料の大学所蔵版。公式解答エと一致。
+2010-h22-haru,22,reviewed,原画像4肢を再読し操作性とサービス時間が利用品質/稼働条件を定める非機能要件であることを確認。業務範囲/データフロー/インタフェースの機能記述との区別が解説と整合。,sources/ipa/2010-h22-haru/questions.pdf#page=12,2026-10-20 公式解答ウと一致。
+2010-h22-haru,23,reviewed,原図の開始終了境界と4肢を目視再照合。IPA要件定義ガイド本文276頁が2007年モデルを引用し要件定義の準委任を推奨する説明と図6.21を確認。要件定義を請負に含めるア〜ウを除外し内部設計〜結合のエ・公式正解と一致。当時モデルの推奨と法的義務を混同しない注記を確認。,https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf,2026-10-20 PDF287〜288頁をローカル取得・図を目視。2007年モデル原版URLは取得不能だがIPA引用資料で根拠確認。
+2010-h22-haru,24,reviewed,原画像で通常派遣の前提を再確認。厚労省の派遣先による指揮命令と特定目的行為/事前面接の禁止・紹介予定派遣例外を一次資料で照合。請負完成責任との混同の指摘を確認。,https://www.mhlw.go.jp/general/seido/anteikyoku/haken/05.html,2026-10-20 指揮命令の定義は https://jsite.mhlw.go.jp/okinawa-roudoukyoku/hourei_seido_tetsuzuki/roudousha_haken/dispatch.html で確認。
+2010-h22-haru,25,reviewed,原画像の4原則とOECD本文のData Quality・Openness・Accountability・Use Limitationを比較。目的に必要な正確性/完全性/最新性というウと管理者責任・公開範囲・目的外利用制限の誤肢説明が整合。,https://legalinstruments.oecd.org/public/doc/114/body-text.en.html,2026-10-20 原則8/10/12/14を確認。公式解答ウと一致。

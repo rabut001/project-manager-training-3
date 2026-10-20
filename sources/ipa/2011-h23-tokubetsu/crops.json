@@ -1,0 +1,402 @@
+[
+  {
+    "no": 1,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      68.0,
+      501.47998046875,
+      306.6666666666667
+    ],
+    "pixelSize": [
+      1163,
+      568
+    ],
+    "headerOcr": "間1プロジェクトマ",
+    "image": "public/data/2011-h23-tokubetsu/q01.png"
+  },
+  {
+    "no": 2,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      308.6666666666667,
+      501.47998046875,
+      487.0
+    ],
+    "pixelSize": [
+      1167,
+      399
+    ],
+    "headerOcr": "問2PMBOKにおv",
+    "image": "public/data/2011-h23-tokubetsu/q02.png"
+  },
+  {
+    "no": 3,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      489.0,
+      501.47998046875,
+      673.4000244140625
+    ],
+    "pixelSize": [
+      1257,
+      407
+    ],
+    "headerOcr": "問3PMBOKのプr",
+    "image": "public/data/2011-h23-tokubetsu/q03.png"
+  },
+  {
+    "no": 4,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      68.0,
+      505.55999755859375,
+      673.4000244140625
+    ],
+    "pixelSize": [
+      1256,
+      1445
+    ],
+    "headerOcr": "問4アローダイア/",
+    "image": "public/data/2011-h23-tokubetsu/q04.png"
+  },
+  {
+    "no": 5,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      66.66666666666666,
+      500.760009765625,
+      266.33333333333337
+    ],
+    "pixelSize": [
+      1164,
+      454
+    ],
+    "headerOcr": "問5工程管理図表に",
+    "image": "public/data/2011-h23-tokubetsu/q05.png"
+  },
+  {
+    "no": 6,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      268.33333333333337,
+      500.760009765625,
+      670.760009765625
+    ],
+    "pixelSize": [
+      1285,
+      1117
+    ],
+    "headerOcr": "問6スコープを縮",
+    "image": "public/data/2011-h23-tokubetsu/q06.png"
+  },
+  {
+    "no": 7,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      69.33333333333334,
+      505.32000732421875,
+      384.6666666666667
+    ],
+    "pixelSize": [
+      1263,
+      795
+    ],
+    "headerOcr": "問7ファンクション",
+    "image": "public/data/2011-h23-tokubetsu/q07.png"
+  },
+  {
+    "no": 8,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      386.6666666666667,
+      505.32000732421875,
+      672.9199829101562
+    ],
+    "pixelSize": [
+      1255,
+      562
+    ],
+    "headerOcr": "問8JISX0129-1",
+    "image": "public/data/2011-h23-tokubetsu/q08.png"
+  },
+  {
+    "no": 9,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      69.0,
+      501.0,
+      247.66666666666666
+    ],
+    "pixelSize": [
+      1164,
+      398
+    ],
+    "headerOcr": "問9A社では,昨年",
+    "image": "public/data/2011-h23-tokubetsu/q09.png"
+  },
+  {
+    "no": 10,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      249.66666666666666,
+      501.0,
+      672.6799926757812
+    ],
+    "pixelSize": [
+      1290,
+      953
+    ],
+    "headerOcr": "問10あるプレゼンデ",
+    "image": "public/data/2011-h23-tokubetsu/q10.png"
+  },
+  {
+    "no": 11,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      69.66666666666666,
+      505.08001708984375,
+      307.3333333333333
+    ],
+    "pixelSize": [
+      1273,
+      586
+    ],
+    "headerOcr": "問11教育技法の説明",
+    "image": "public/data/2011-h23-tokubetsu/q11.png"
+  },
+  {
+    "no": 12,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      309.3333333333333,
+      505.08001708984375,
+      467.6666666666667
+    ],
+    "pixelSize": [
+      1237,
+      342
+    ],
+    "headerOcr": "問12リスクマネジメ",
+    "image": "public/data/2011-h23-tokubetsu/q12.png"
+  },
+  {
+    "no": 13,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      469.6666666666667,
+      505.08001708984375,
+      672.2000122070312
+    ],
+    "pixelSize": [
+      1170,
+      559
+    ],
+    "headerOcr": "問13デルファイ法を",
+    "image": "public/data/2011-h23-tokubetsu/q13.png"
+  },
+  {
+    "no": 14,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      66.0,
+      498.5999755859375,
+      245.66666666666666
+    ],
+    "pixelSize": [
+      1172,
+      398
+    ],
+    "headerOcr": "問14PMBOKのリフ",
+    "image": "public/data/2011-h23-tokubetsu/q14.png"
+  },
+  {
+    "no": 15,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      247.66666666666666,
+      498.5999755859375,
+      428.0
+    ],
+    "pixelSize": [
+      1161,
+      403
+    ],
+    "headerOcr": "問15システム構築の",
+    "image": "public/data/2011-h23-tokubetsu/q15.png"
+  },
+  {
+    "no": 16,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      430.0,
+      498.5999755859375,
+      671.719970703125
+    ],
+    "pixelSize": [
+      1248,
+      525
+    ],
+    "headerOcr": "問16共通フレーム2",
+    "image": "public/data/2011-h23-tokubetsu/q16.png"
+  },
+  {
+    "no": 17,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      69.0,
+      501.0,
+      671.239990234375
+    ],
+    "pixelSize": [
+      1344,
+      1495
+    ],
+    "headerOcr": "問17図は,階層化",
+    "image": "public/data/2011-h23-tokubetsu/q17.png"
+  },
+  {
+    "no": 18,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      70.66666666666666,
+      499.32000732421875,
+      268.0
+    ],
+    "pixelSize": [
+      1190,
+      452
+    ],
+    "headerOcr": "問18CMMIを説明し",
+    "image": "public/data/2011-h23-tokubetsu/q18.png"
+  },
+  {
+    "no": 19,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      270.0,
+      499.32000732421875,
+      672.4400024414062
+    ],
+    "pixelSize": [
+      1255,
+      1064
+    ],
+    "headerOcr": "間19共通フレーム2",
+    "image": "public/data/2011-h23-tokubetsu/q19.png"
+  },
+  {
+    "no": 20,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      68.66666666666666,
+      501.0,
+      672.2000122070312
+    ],
+    "pixelSize": [
+      1215,
+      1585
+    ],
+    "headerOcr": "間20システムの改善",
+    "image": "public/data/2011-h23-tokubetsu/q20.png"
+  },
+  {
+    "no": 21,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      65.66666666666666,
+      499.79998779296875,
+      672.6799926757812
+    ],
+    "pixelSize": [
+      1213,
+      1478
+    ],
+    "headerOcr": "問21(1<て(4)はある",
+    "image": "public/data/2011-h23-tokubetsu/q21.png"
+  },
+  {
+    "no": 22,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      67.0,
+      501.719970703125,
+      436.0
+    ],
+    "pixelSize": [
+      1296,
+      935
+    ],
+    "headerOcr": "問22IT投資案件に",
+    "image": "public/data/2011-h23-tokubetsu/q22.png"
+  },
+  {
+    "no": 23,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      438.0,
+      501.719970703125,
+      577.6666666666666
+    ],
+    "pixelSize": [
+      1166,
+      297
+    ],
+    "headerOcr": "問23システム化計再",
+    "image": "public/data/2011-h23-tokubetsu/q23.png"
+  },
+  {
+    "no": 24,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      579.6666666666666,
+      501.719970703125,
+      671.9600219726562
+    ],
+    "pixelSize": [
+      1174,
+      172
+    ],
+    "headerOcr": "間24法人が作成し,",
+    "image": "public/data/2011-h23-tokubetsu/q24.png"
+  },
+  {
+    "no": 25,
+    "page": 15,
+    "clipPoints": [
+      15.0,
+      66.33333333333334,
+      498.5999755859375,
+      673.1599731445312
+    ],
+    "pixelSize": [
+      1234,
+      1283
+    ],
+    "headerOcr": "問25メーカの4社に",
+    "image": "public/data/2011-h23-tokubetsu/q25.png"
+  }
+]

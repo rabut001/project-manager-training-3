@@ -1,0 +1,402 @@
+[
+  {
+    "no": 1,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      60.66666666666666,
+      499.55999755859375,
+      242.0
+    ],
+    "pixelSize": [
+      1158,
+      399
+    ],
+    "headerOcr": "問1PMBOKのプロジ",
+    "image": "public/data/2010-h22-haru/q01.png"
+  },
+  {
+    "no": 2,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      244.0,
+      499.55999755859375,
+      673.1599731445312
+    ],
+    "pixelSize": [
+      1161,
+      919
+    ],
+    "headerOcr": "問2COCOMOにはシ",
+    "image": "public/data/2010-h22-haru/q02.png"
+  },
+  {
+    "no": 3,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      60.0,
+      502.91998291015625,
+      302.0
+    ],
+    "pixelSize": [
+      1299,
+      569
+    ],
+    "headerOcr": "問3PMBOKのプロ",
+    "image": "public/data/2010-h22-haru/q03.png"
+  },
+  {
+    "no": 4,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      304.0,
+      502.91998291015625,
+      671.0
+    ],
+    "pixelSize": [
+      1160,
+      566
+    ],
+    "headerOcr": "問4工程管理図表の",
+    "image": "public/data/2010-h22-haru/q04.png"
+  },
+  {
+    "no": 5,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      64.33333333333334,
+      498.84002685546875,
+      279.3333333333333
+    ],
+    "pixelSize": [
+      1261,
+      505
+    ],
+    "headerOcr": "間5クリティカルチェ",
+    "image": "public/data/2010-h22-haru/q05.png"
+  },
+  {
+    "no": 6,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      281.3333333333333,
+      498.84002685546875,
+      672.6799926757812
+    ],
+    "pixelSize": [
+      1159,
+      1032
+    ],
+    "headerOcr": "問6システムを開発",
+    "image": "public/data/2010-h22-haru/q06.png"
+  },
+  {
+    "no": 7,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      59.33333333333334,
+      501.47998046875,
+      259.66666666666663
+    ],
+    "pixelSize": [
+      1161,
+      457
+    ],
+    "headerOcr": "問7プロジェクト基",
+    "image": "public/data/2010-h22-haru/q07.png"
+  },
+  {
+    "no": 8,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      261.66666666666663,
+      501.47998046875,
+      670.52001953125
+    ],
+    "pixelSize": [
+      1168,
+      644
+    ],
+    "headerOcr": "問8過去のプロジェ",
+    "image": "public/data/2010-h22-haru/q08.png"
+  },
+  {
+    "no": 9,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      64.66666666666666,
+      498.84002685546875,
+      285.3333333333333
+    ],
+    "pixelSize": [
+      1159,
+      509
+    ],
+    "headerOcr": "問9情報システムの:",
+    "image": "public/data/2010-h22-haru/q09.png"
+  },
+  {
+    "no": 10,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      287.3333333333333,
+      498.84002685546875,
+      672.4400024414062
+    ],
+    "pixelSize": [
+      1169,
+      890
+    ],
+    "headerOcr": "間10JISX0129-1で叶",
+    "image": "public/data/2010-h22-haru/q10.png"
+  },
+  {
+    "no": 11,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      63.0,
+      499.55999755859375,
+      242.0
+    ],
+    "pixelSize": [
+      1160,
+      403
+    ],
+    "headerOcr": "間11品質の定量評価(",
+    "image": "public/data/2010-h22-haru/q11.png"
+  },
+  {
+    "no": 12,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      244.0,
+      499.55999755859375,
+      425.0
+    ],
+    "pixelSize": [
+      1156,
+      404
+    ],
+    "headerOcr": "問12マグレガーのY}",
+    "image": "public/data/2010-h22-haru/q12.png"
+  },
+  {
+    "no": 13,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      427.0,
+      499.55999755859375,
+      671.9600219726562
+    ],
+    "pixelSize": [
+      1158,
+      638
+    ],
+    "headerOcr": "間13データのグラフ人人",
+    "image": "public/data/2010-h22-haru/q13.png"
+  },
+  {
+    "no": 14,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      65.0,
+      498.84002685546875,
+      223.0
+    ],
+    "pixelSize": [
+      1158,
+      342
+    ],
+    "headerOcr": "問14PMBOKのリス:",
+    "image": "public/data/2010-h22-haru/q14.png"
+  },
+  {
+    "no": 15,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      225.0,
+      498.84002685546875,
+      405.6666666666667
+    ],
+    "pixelSize": [
+      1158,
+      399
+    ],
+    "headerOcr": "問15要件定義フェーフ",
+    "image": "public/data/2010-h22-haru/q15.png"
+  },
+  {
+    "no": 16,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      407.6666666666667,
+      498.84002685546875,
+      672.6799926757812
+    ],
+    "pixelSize": [
+      1160,
+      620
+    ],
+    "headerOcr": "問16論理データモデ",
+    "image": "public/data/2010-h22-haru/q16.png"
+  },
+  {
+    "no": 17,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      63.33333333333334,
+      500.03997802734375,
+      390.6666666666667
+    ],
+    "pixelSize": [
+      1154,
+      811
+    ],
+    "headerOcr": "問17次のクラス図に",
+    "image": "public/data/2010-h22-haru/q17.png"
+  },
+  {
+    "no": 18,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      392.6666666666667,
+      500.03997802734375,
+      671.719970703125
+    ],
+    "pixelSize": [
+      1158,
+      562
+    ],
+    "headerOcr": "問18SOA(ServiceOr",
+    "image": "public/data/2010-h22-haru/q18.png"
+  },
+  {
+    "no": 19,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      65.0,
+      498.1199951171875,
+      222.66666666666666
+    ],
+    "pixelSize": [
+      1112,
+      343
+    ],
+    "headerOcr": "問19リバースエンジ",
+    "image": "public/data/2010-h22-haru/q19.png"
+  },
+  {
+    "no": 20,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      224.66666666666666,
+      498.1199951171875,
+      464.0
+    ],
+    "pixelSize": [
+      1157,
+      566
+    ],
+    "headerOcr": "問20情報システムの",
+    "image": "public/data/2010-h22-haru/q20.png"
+  },
+  {
+    "no": 21,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      466.0,
+      498.1199951171875,
+      672.9199829101562
+    ],
+    "pixelSize": [
+      1157,
+      452
+    ],
+    "headerOcr": "問21ITILv3における",
+    "image": "public/data/2010-h22-haru/q21.png"
+  },
+  {
+    "no": 22,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      62.66666666666666,
+      498.5999755859375,
+      221.66666666666666
+    ],
+    "pixelSize": [
+      1273,
+      341
+    ],
+    "headerOcr": "間22システムの非機和",
+    "image": "public/data/2010-h22-haru/q22.png"
+  },
+  {
+    "no": 23,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      223.66666666666666,
+      498.5999755859375,
+      671.47998046875
+    ],
+    "pixelSize": [
+      1157,
+      1240
+    ],
+    "headerOcr": "問23経済産業省の“1",
+    "image": "public/data/2010-h22-haru/q23.png"
+  },
+  {
+    "no": 24,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      64.33333333333334,
+      497.8800048828125,
+      342.0
+    ],
+    "pixelSize": [
+      1161,
+      678
+    ],
+    "headerOcr": "問24プロジェクトで:",
+    "image": "public/data/2010-h22-haru/q24.png"
+  },
+  {
+    "no": 25,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      344.0,
+      497.8800048828125,
+      672.2000122070312
+    ],
+    "pixelSize": [
+      1168,
+      567
+    ],
+    "headerOcr": "問25OECDの“プラ",
+    "image": "public/data/2010-h22-haru/q25.png"
+  }
+]

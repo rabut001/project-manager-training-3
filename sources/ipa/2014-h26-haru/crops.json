@@ -1,0 +1,402 @@
+[
+  {
+    "no": 1,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      69.0,
+      500.52001953125,
+      286.6666666666667
+    ],
+    "pixelSize": [
+      1158,
+      510
+    ],
+    "headerOcr": "問1情報システム(",
+    "image": "public/data/2014-h26-haru/q01.png"
+  },
+  {
+    "no": 2,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      288.6666666666667,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1156,
+      925
+    ],
+    "headerOcr": "問2図は一般的なっ",
+    "image": "public/data/2014-h26-haru/q02.png"
+  },
+  {
+    "no": 3,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      67.0,
+      500.52001953125,
+      245.33333333333334
+    ],
+    "pixelSize": [
+      1156,
+      396
+    ],
+    "headerOcr": "問3PMBOKにおい",
+    "image": "public/data/2014-h26-haru/q03.png"
+  },
+  {
+    "no": 4,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      247.33333333333334,
+      500.52001953125,
+      445.6666666666667
+    ],
+    "pixelSize": [
+      1154,
+      452
+    ],
+    "headerOcr": "問4PMBOKによ#",
+    "image": "public/data/2014-h26-haru/q04.png"
+  },
+  {
+    "no": 5,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      447.6666666666667,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1156,
+      507
+    ],
+    "headerOcr": "問5PMBOKでの兄",
+    "image": "public/data/2014-h26-haru/q05.png"
+  },
+  {
+    "no": 6,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      70.66666666666666,
+      500.52001953125,
+      309.3333333333333
+    ],
+    "pixelSize": [
+      1157,
+      564
+    ],
+    "headerOcr": "問6PMBOKのプr",
+    "image": "public/data/2014-h26-haru/q06.png"
+  },
+  {
+    "no": 7,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      311.3333333333333,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1156,
+      400
+    ],
+    "headerOcr": "問7プロジェクト<",
+    "image": "public/data/2014-h26-haru/q07.png"
+  },
+  {
+    "no": 8,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      71.0,
+      500.52001953125,
+      408.0
+    ],
+    "pixelSize": [
+      1178,
+      840
+    ],
+    "headerOcr": "問8表は,あるプr",
+    "image": "public/data/2014-h26-haru/q08.png"
+  },
+  {
+    "no": 9,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      410.0,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1156,
+      507
+    ],
+    "headerOcr": "問9プロジェクト(",
+    "image": "public/data/2014-h26-haru/q09.png"
+  },
+  {
+    "no": 10,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      69.33333333333334,
+      500.52001953125,
+      231.0
+    ],
+    "pixelSize": [
+      1156,
+      344
+    ],
+    "headerOcr": "問10プロジェクト~",
+    "image": "public/data/2014-h26-haru/q10.png"
+  },
+  {
+    "no": 11,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      233.0,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1156,
+      783
+    ],
+    "headerOcr": "間11あるソフトウェ",
+    "image": "public/data/2014-h26-haru/q11.png"
+  },
+  {
+    "no": 12,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      69.33333333333334,
+      500.52001953125,
+      228.0
+    ],
+    "pixelSize": [
+      998,
+      338
+    ],
+    "headerOcr": "問12リスクマネジメ",
+    "image": "public/data/2014-h26-haru/q12.png"
+  },
+  {
+    "no": 13,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      230.0,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1167,
+      396
+    ],
+    "headerOcr": "問13PMBOKのリス",
+    "image": "public/data/2014-h26-haru/q13.png"
+  },
+  {
+    "no": 14,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      70.0,
+      500.52001953125,
+      438.6666666666667
+    ],
+    "pixelSize": [
+      1157,
+      917
+    ],
+    "headerOcr": "間14COCOMOには",
+    "image": "public/data/2014-h26-haru/q14.png"
+  },
+  {
+    "no": 15,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      440.6666666666667,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1157,
+      618
+    ],
+    "headerOcr": "間15プロジェクトの",
+    "image": "public/data/2014-h26-haru/q15.png"
+  },
+  {
+    "no": 16,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      71.66666666666666,
+      500.52001953125,
+      248.33333333333334
+    ],
+    "pixelSize": [
+      1157,
+      397
+    ],
+    "headerOcr": "間16ソフトウェアの",
+    "image": "public/data/2014-h26-haru/q16.png"
+  },
+  {
+    "no": 17,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      250.33333333333334,
+      500.52001953125,
+      386.6666666666667
+    ],
+    "pixelSize": [
+      1155,
+      291
+    ],
+    "headerOcr": "問17XP(Extreme1",
+    "image": "public/data/2014-h26-haru/q17.png"
+  },
+  {
+    "no": 18,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      388.6666666666667,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1177,
+      768
+    ],
+    "headerOcr": "問18表はシステムの",
+    "image": "public/data/2014-h26-haru/q18.png"
+  },
+  {
+    "no": 19,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      70.66666666666666,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1264,
+      1673
+    ],
+    "headerOcr": "問19次の図は,ITI",
+    "image": "public/data/2014-h26-haru/q19.png"
+  },
+  {
+    "no": 20,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      69.33333333333334,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1156,
+      1503
+    ],
+    "headerOcr": "問20システムの改善",
+    "image": "public/data/2014-h26-haru/q20.png"
+  },
+  {
+    "no": 21,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      68.0,
+      500.52001953125,
+      246.33333333333334
+    ],
+    "pixelSize": [
+      1153,
+      399
+    ],
+    "headerOcr": "間21TP(知的財産)",
+    "image": "public/data/2014-h26-haru/q21.png"
+  },
+  {
+    "no": 22,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      248.33333333333334,
+      500.52001953125,
+      509.66666666666674
+    ],
+    "pixelSize": [
+      1163,
+      627
+    ],
+    "headerOcr": "問22ソフトウェア開",
+    "image": "public/data/2014-h26-haru/q22.png"
+  },
+  {
+    "no": 23,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      511.66666666666674,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1155,
+      451
+    ],
+    "headerOcr": "間23コンティンジェ",
+    "image": "public/data/2014-h26-haru/q23.png"
+  },
+  {
+    "no": 24,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      68.66666666666666,
+      500.52001953125,
+      226.66666666666666
+    ],
+    "pixelSize": [
+      1093,
+      342
+    ],
+    "headerOcr": "問24メールサーバ(",
+    "image": "public/data/2014-h26-haru/q24.png"
+  },
+  {
+    "no": 25,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      228.66666666666666,
+      500.52001953125,
+      674.3599853515625
+    ],
+    "pixelSize": [
+      1158,
+      619
+    ],
+    "headerOcr": "問25SSLに関する証",
+    "image": "public/data/2014-h26-haru/q25.png"
+  }
+]

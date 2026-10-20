@@ -1,0 +1,402 @@
+[
+  {
+    "no": 1,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      64.0,
+      500.52001953125,
+      222.33333333333334
+    ],
+    "pixelSize": [
+      1169,
+      344
+    ],
+    "headerOcr": "問1JISQ21500:20",
+    "image": "public/data/2020-r02-oct/q01.png"
+  },
+  {
+    "no": 2,
+    "page": 3,
+    "clipPoints": [
+      15.0,
+      224.33333333333334,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1159,
+      732
+    ],
+    "headerOcr": "問2JISQ21500:2(",
+    "image": "public/data/2020-r02-oct/q02.png"
+  },
+  {
+    "no": 3,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      61.33333333333334,
+      500.52001953125,
+      380.6666666666667
+    ],
+    "pixelSize": [
+      1158,
+      788
+    ],
+    "headerOcr": "問3プロジェクト~-",
+    "image": "public/data/2020-r02-oct/q03.png"
+  },
+  {
+    "no": 4,
+    "page": 4,
+    "clipPoints": [
+      15.0,
+      382.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1165,
+      455
+    ],
+    "headerOcr": "問4プロジェクト-",
+    "image": "public/data/2020-r02-oct/q04.png"
+  },
+  {
+    "no": 5,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      66.0,
+      500.52001953125,
+      284.6666666666667
+    ],
+    "pixelSize": [
+      1160,
+      510
+    ],
+    "headerOcr": "問5プロジェクト}",
+    "image": "public/data/2020-r02-oct/q05.png"
+  },
+  {
+    "no": 6,
+    "page": 5,
+    "clipPoints": [
+      15.0,
+      286.6666666666667,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1170,
+      602
+    ],
+    "headerOcr": "問6プロジェクト(",
+    "image": "public/data/2020-r02-oct/q06.png"
+  },
+  {
+    "no": 7,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      64.66666666666666,
+      500.52001953125,
+      342.0
+    ],
+    "pixelSize": [
+      1261,
+      674
+    ],
+    "headerOcr": "問7あるプロジェ:",
+    "image": "public/data/2020-r02-oct/q07.png"
+  },
+  {
+    "no": 8,
+    "page": 6,
+    "clipPoints": [
+      15.0,
+      344.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1158,
+      678
+    ],
+    "headerOcr": "問8PMBOKガイ|",
+    "image": "public/data/2020-r02-oct/q08.png"
+  },
+  {
+    "no": 9,
+    "page": 7,
+    "clipPoints": [
+      15.0,
+      63.66666666666666,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1154,
+      917
+    ],
+    "headerOcr": "問9COCOMOには",
+    "image": "public/data/2020-r02-oct/q09.png"
+  },
+  {
+    "no": 10,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      62.666700000000006,
+      500.52001953125,
+      394.0
+    ],
+    "pixelSize": [
+      1222,
+      872
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2020-r02-oct/q10.png"
+  },
+  {
+    "no": 11,
+    "page": 8,
+    "clipPoints": [
+      15.0,
+      396.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1158,
+      675
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2020-r02-oct/q11.png"
+  },
+  {
+    "no": 12,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      65.0,
+      500.52001953125,
+      245.66666666666666
+    ],
+    "pixelSize": [
+      1161,
+      390
+    ],
+    "headerOcr": "問12品質の定量的",
+    "image": "public/data/2020-r02-oct/q12.png"
+  },
+  {
+    "no": 13,
+    "page": 9,
+    "clipPoints": [
+      15.0,
+      247.66666666666666,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1161,
+      932
+    ],
+    "headerOcr": "間13次の契約条件~",
+    "image": "public/data/2020-r02-oct/q13.png"
+  },
+  {
+    "no": 14,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      65.66666666666666,
+      500.52001953125,
+      324.0
+    ],
+    "pixelSize": [
+      1160,
+      619
+    ],
+    "headerOcr": "問14JISQ21500:201",
+    "image": "public/data/2020-r02-oct/q14.png"
+  },
+  {
+    "no": 15,
+    "page": 10,
+    "clipPoints": [
+      15.0,
+      326.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1234,
+      619
+    ],
+    "headerOcr": "問15新システムの",
+    "image": "public/data/2020-r02-oct/q15.png"
+  },
+  {
+    "no": 16,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      67.66666666666666,
+      500.52001953125,
+      225.66666666666666
+    ],
+    "pixelSize": [
+      1195,
+      341
+    ],
+    "headerOcr": "問16SOAでシステ.",
+    "image": "public/data/2020-r02-oct/q16.png"
+  },
+  {
+    "no": 17,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      227.66666666666666,
+      500.52001953125,
+      446.3333333333333
+    ],
+    "pixelSize": [
+      1170,
+      506
+    ],
+    "headerOcr": "間17ユースケース!",
+    "image": "public/data/2020-r02-oct/q17.png"
+  },
+  {
+    "no": 18,
+    "page": 11,
+    "clipPoints": [
+      15.0,
+      448.3333333333333,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1253,
+      627
+    ],
+    "headerOcr": "間18基幹業務シス-",
+    "image": "public/data/2020-r02-oct/q18.png"
+  },
+  {
+    "no": 19,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      64.0,
+      500.52001953125,
+      263.0
+    ],
+    "pixelSize": [
+      1159,
+      454
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2020-r02-oct/q19.png"
+  },
+  {
+    "no": 20,
+    "page": 12,
+    "clipPoints": [
+      15.0,
+      265.0,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1166,
+      1136
+    ],
+    "headerOcr": "manual: original header image visually reviewed",
+    "image": "public/data/2020-r02-oct/q20.png"
+  },
+  {
+    "no": 21,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      62.0,
+      500.52001953125,
+      240.66666666666666
+    ],
+    "pixelSize": [
+      1155,
+      398
+    ],
+    "headerOcr": "問21個人情報保護",
+    "image": "public/data/2020-r02-oct/q21.png"
+  },
+  {
+    "no": 22,
+    "page": 13,
+    "clipPoints": [
+      15.0,
+      242.66666666666666,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1159,
+      565
+    ],
+    "headerOcr": "間22労働者派遣事",
+    "image": "public/data/2020-r02-oct/q22.png"
+  },
+  {
+    "no": 23,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      61.0,
+      500.52001953125,
+      295.3333333333333
+    ],
+    "pixelSize": [
+      1158,
+      566
+    ],
+    "headerOcr": "問23シングルサイ・",
+    "image": "public/data/2020-r02-oct/q23.png"
+  },
+  {
+    "no": 24,
+    "page": 14,
+    "clipPoints": [
+      15.0,
+      297.3333333333333,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1158,
+      999
+    ],
+    "headerOcr": "問24共通腔層性評f",
+    "image": "public/data/2020-r02-oct/q24.png"
+  },
+  {
+    "no": 25,
+    "page": 15,
+    "clipPoints": [
+      15.0,
+      57.333333333333336,
+      500.52001953125,
+      674.3599243164062
+    ],
+    "pixelSize": [
+      1261,
+      635
+    ],
+    "headerOcr": "問25脆性検査手",
+    "image": "public/data/2020-r02-oct/q25.png"
+  }
+]
