@@ -6,6 +6,10 @@ IPA公開のPM午前Ⅱを年度別に1問ずつ解く静的Webアプリです�
 
 年度選択、ア〜エの解答、個別・一括採点、解説、チェック、画像拡大に対応。進捗は同じブラウザのlocalStorageに保存されます。ログインや端末間同期はありません。問題は原本から切り出した画像で表示します。画像内の文字は選択・読み上げできないため、本文のアクセシビリティには制約があります。
 
+## このリポジトリについて
+
+このリポジトリは、Claude CodeとOpenAI Codexに同じ指示を与え、作成されたアプリやリポジトリの内容を比較するために作成しました。このリポジトリの成果物は、OpenAI Codexの **GPT-6 Astra、highモード** で作成したものです。
+
 ## 開発
 
 DockerとVS CodeのDev Containers拡張を使用し、このフォルダを **Reopen in Container** で開きます。Node.js 24、npm、Python、PyMuPDF、Tesseract（日本語）、GitHub CLIは開発コンテナに含まれます。ホストへNode.js等をインストールする必要はありません。初期化時にnpm依存とChromiumを導入します。
