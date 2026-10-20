@@ -4,6 +4,7 @@ test("公開ビルドの全年度と画像・解説を読み込める", async ({
   const errors: string[] = [];
   page.on("pageerror", (error) => errors.push(error.message));
   await page.goto("./");
+  await expect(page.locator(".exam-list a")).toHaveCount(17);
   const links = await page
     .locator(".exam-list a")
     .evaluateAll((elements) =>
