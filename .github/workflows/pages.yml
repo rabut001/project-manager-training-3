@@ -33,6 +33,7 @@ jobs:
               set -euo pipefail
               npm ci
               npx playwright install --with-deps chromium
+              python3 -m unittest discover -s tests/tools -p "test_*.py"
               npm test
               npm run test:e2e
               BASE_PATH="$PAGE_BASE_PATH" npm run build

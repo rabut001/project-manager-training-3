@@ -42,6 +42,10 @@ BASE_PATH=/project-manager-training-3/ npm run test:production
 
 解説は事前作成したものをJSONに保存し、利用時には生成しません。原本PDFや改修記録はサイトの公開成果物に含めません。
 
+## チャットの書き出し
+
+Codexへ「このチャットをMarkdownで出力してください」と依頼すると、`chat-exports/YYYY-MM-DD-HHMM/chat.md` に保存します。手動の実行方法と出力範囲は[チャット出力手順](docs/chat-export.md)を参照してください。生成した会話ログはGit管理・サイト公開の対象外です。
+
 ## 出典
 
 問題と公式正解の出典は[IPAの過去問題](https://www.ipa.go.jp/shiken/mondai-kaiotu/)です。各問題に年度・試験区分・時間区分・問番号と原本PDFへのリンクを表示します。元のURLとSHA-256は `sources/ipa/manifest.json` にあります。
